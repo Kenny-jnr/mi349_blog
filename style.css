@@ -7,24 +7,26 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 40px;
   color: #242424;
+  padding: 40px;;
   border-top: 10px solid #242424;
   background: #fff;
 }
 
 h1 {
-
+  font-size: 3em;
+  margin: 0;
 }
 
 p {
-
+  line-height: 1.4em;
 }
 
 #blog {
-
+  border-top: 1px dotted #ccc;
 }
 
 .morning {
-
+  border-bottom: 1px dotted #ccc;
 }
 
 .work {
