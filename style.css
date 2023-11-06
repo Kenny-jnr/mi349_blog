@@ -11,6 +11,24 @@ body {
   width: 75%;
 }
 
+.wakeup{
+  background: no-repeat bottom / cover url('images/wakeup.jpeg');
+  height: 300px;
+  border-radius: 20px;
+}
+
+.coding{
+  background: no-repeat bottom / cover url('images/coding.jpeg');
+  height: 300px;
+  border-radius: 20px;
+}
+
+.wakeup{
+  background: no-repeat bottom / cover url('images/football.jpeg');
+  height: 300px;
+  border-radius: 20px;
+}
+
 h1 {
   font-size: 3em;
   margin: 0;
