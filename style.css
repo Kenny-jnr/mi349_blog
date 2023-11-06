@@ -77,13 +77,13 @@ article {
   border-bottom: 1px dotted #ccc;
 }
 
-address {
+address a{
   text-decoration: none;
   color: #242424;
   text-shadow: #ccc;
 }
 
-address:hover {
+address a:hover {
   text-decoration: underline;
 }
 
