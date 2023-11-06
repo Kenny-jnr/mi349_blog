@@ -20,6 +20,29 @@ h1 {
 .navigation {
   position: sticky;
   top: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
+
+}
+
+.navigation ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.navigation li {
+  margin-right: 20px;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
 }
 
 p {
@@ -47,5 +70,5 @@ article {
 }
 
 img {
-  margin: 100%;
+  
 }
