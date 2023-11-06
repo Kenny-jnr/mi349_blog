@@ -91,12 +91,24 @@ article {
 
 address a{
   text-decoration: none;
-  color: #242424;
+  color: grey;
   text-shadow: #ccc;
 }
 
 address a:hover {
   text-decoration: underline;
+}
+
+.flex-table {
+  display: flex;
+}
+
+.paragraph {
+  flex: 2;
+}
+
+.table {
+  flex: 1;
 }
 
 .morning {
