@@ -1,15 +1,14 @@
-html {
-  background:#e3e3e3;
-
-}
+/*
+ */
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  margin: 100px;
+  margin: 0 auto;
   color: #242424;
-  padding: 40px;
+  /* padding: 40px; */
   border-top: 10px solid #242424;
   background: #fff;
+  width: 75%;
 }
 
 h1 {
