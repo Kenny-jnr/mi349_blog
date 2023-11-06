@@ -13,25 +13,26 @@ body {
 
 .wakeup{
   background: no-repeat bottom / cover url('images/wakeup.jpeg');
-  height: 700px;
+  height: 1000px;
   border-radius: 20px;
 }
 
 .coding{
   background: no-repeat bottom / cover url('images/coding.jpeg');
-  height: 700px;
+  height: 1000px;
   border-radius: 20px;
 }
 
 .football{
   background: no-repeat bottom / cover url('images/football.jpeg');
-  height: 700px;
+  height: 1000px;
   border-radius: 20px;
 }
 
 h1 {
   font-size: 3em;
   margin: 0;
+  text-align: center;
 }
 
 .navigation {
@@ -74,6 +75,16 @@ p {
 
 article {
   border-bottom: 1px dotted #ccc;
+}
+
+address {
+  text-decoration: none;
+  color: #242424;
+  text-shadow: #ccc;
+}
+
+address:hover {
+  text-decoration: underline;
 }
 
 .morning {
