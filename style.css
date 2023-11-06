@@ -52,15 +52,15 @@ h1 {
   margin-right: 20px;
 }
 
-.navigation:nth-of-type(1) {
+.navigation li:nth-of-type(1) {
   flex: 1;
 }
 
-.navigation:nth-of-type(2) {
+.navigation li:nth-of-type(2) {
   flex: 3;
 }
 
-.navigation:nth-of-type(3) {
+.navigation li:nth-of-type(3) {
   flex: 1;
 }
 
