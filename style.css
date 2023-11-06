@@ -101,28 +101,60 @@ address a:hover {
 
 .flex-table {
   display: flex;
+  margin: 20px 0 20px 0;
+  padding: 20px;
+  border-radius: 20px;
 }
 
 .paragraph {
   flex: 2;
+  margin: 20px 0 20px 0;
+  padding: 20px;
+  width: 70%;
 }
 
 .table {
   flex: 1;
+  margin: 20px 0 20px 0;
+  padding: 20px;
+  /* margin-left: 30px; */
 }
 
-.morning {
-  
+.image-holder {
+  overflow: hidden;
+  margin-bottom: 30px;
 }
 
-.work {
-
+.image-caption {
+  float: left;
+  margin-right: 20px;
 }
 
-.life {
-
+.image-caption img {
+  max-width: 100%;
 }
 
-img {
-  
+.image-caption p {
+  margin: 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-column {
+  flex: 1;
+  margin: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input, textarea {
+  width : 100%;
+  padding: 20px;
+  border-radius: 10px;
 }
