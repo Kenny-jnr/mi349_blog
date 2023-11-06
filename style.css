@@ -7,7 +7,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 40px;
   color: #242424;
-  padding: 40px;;
+  padding: 40px;
   border-top: 10px solid #242424;
   background: #fff;
 }
@@ -44,4 +44,9 @@ article {
 
 .life {
 
+}
+
+img {
+  margin: 40px;
+  padding: 40px;
 }
