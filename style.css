@@ -50,6 +50,7 @@ h1 {
 }
 
 .navigation li {
+  text-align: center;
   margin-right: 20px;
   flex: 1;
 }
