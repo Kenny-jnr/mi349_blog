@@ -13,19 +13,19 @@ body {
 
 .wakeup{
   background: no-repeat bottom / cover url('images/wakeup.jpeg');
-  height: 300px;
+  height: 700px;
   border-radius: 20px;
 }
 
 .coding{
   background: no-repeat bottom / cover url('images/coding.jpeg');
-  height: 300px;
+  height: 700px;
   border-radius: 20px;
 }
 
-.wakeup{
+.football{
   background: no-repeat bottom / cover url('images/football.jpeg');
-  height: 300px;
+  height: 700px;
   border-radius: 20px;
 }
 
